@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<firms>
+    <Firma name="Turfirma">
+        <offer>
+            <country>Bolgaria</country>
+            <date>17.05.2022 - 13.09.2022</date>
+            <price>Price from 278 Euro</price>
+            <programe>
+                <base>
+The price includes: direct flight from Tallinn, accommodation in a double room, meals according to the package, airport-hotel-airport transfer, services of an operator representative.
+NB! Prices are for one person, subject to accommodation in a double room. Please ask our consultants for prices for other types of accommodation (single occupancy, children's prices, etc.).
+                </base>
+                <second>
+For an additional fee: insurance (if necessary), excursions.
+                </second>
+                <hotels>
+                    <hotel>
+                        Park Hotel Continental (3*) 
+                    </hotel>
+                    <hotel>
+                        Flamingo Beach (ex. Avliga Beach) (3*)
+                    </hotel>
+                </hotels>
+            </programe>
+        </offer>
+
+        <offer>
+            <country>Turkey</country>
+            <date>02.04.2022 - 13.11.2022</date>
+            <price>price from 197 Euro</price>
+            <programe>
+                <base>
+    The price includes: direct flight from Tallinn, accommodation in a double room, meals according to the package, airport-hotel-airport transfer, services of an operator representative.
+    NB! Prices are for one person, subject to accommodation in a double room. Please ask our consultants for prices for other types of accommodation (single occupancy, children's prices, etc.).
+                </base>
+                <second>
+    For an additional fee: an electronic visa for gray passport holders 20$ (NB! The visa must be issued in advance before traveling to Turkey in electronic form on the website of the Turkish Embassy at: www.evisa.gov.tr), insurance (if necessary), excursions .
+                </second>
+                <hotels>
+                    <hotel>
+                        Britannia Hotel and villas (3*)
+                    </hotel>
+                    <hotel>
+                        Club Herakles Hotel (3*) 
+                    </hotel>
+                </hotels>
+            </programe>
+        </offer>
+
+        <offer>
+            <country>Crete</country>
+            <date>23.04.2022 - 22.10.2022</date>
+            <price>price from 308 Euro</price>
+            <programe>
+                <base>
+    The price includes: direct flight from Tallinn, accommodation in a double room, meals according to the package, airport-hotel-airport transfer, services of an operator representative.
+    NB! Prices are for one person, subject to accommodation in a double room. Please ask our consultants for prices for other types of accommodation (single occupancy, children's prices, etc.).
+                </base>
+                <second>
+    For an additional fee: visa (if necessary), resort fee (if necessary), insurance (if necessary), excursions.
+                </second>
+                <hotels>
+                    <hotel>
+                        Kassavetis Center - Hotel Studios and Apartments (2*) 
+                    </hotel>
+                    <hotel>
+                        Litsa Efi Apartments (2*) 
+                    </hotel>
+                </hotels>
+            </programe>
+        </offer>
+        <offer>
+            <country>Rodos</country>
+            <date>28.04.2022 - 20.10.2022</date>
+            <price>price from 364 Euro</price>
+            <programe>
+                <base>
+    The price includes: direct flight from Tallinn, accommodation in a double room, meals according to the package, airport-hotel-airport transfer, services of an operator representative.
+    NB! Prices are for one person, subject to accommodation in a double room. Please ask our consultants for prices for other types of accommodation (single occupancy, children's prices, etc.).
+                </base>
+                <second>
+    For an additional fee: visa (if necessary), resort fee (if necessary), insurance (if necessary), excursions.
+                </second>
+                <hotels>
+                    <hotel>
+                        Fortuna 2* Rhodos
+                    </hotel>
+                    <hotel>
+                        Tivoli (3*)
+                    </hotel>
+                </hotels>
+            </programe>
+        </offer>
+        <offer>
+            <country>Bodrum</country>
+            <date>11.09.2022 - 08.10.2022</date>
+            <price>price from 624 Euro</price>
+            <programe>
+                <base>
+    The price includes: direct flight from Tallinn, accommodation in a double room, meals according to the package, airport-hotel-airport transfer, services of an operator representative.
+    NB! Prices are for one person, subject to accommodation in a double room. Please ask our consultants for prices for other types of accommodation (single occupancy, children's prices, etc.).
+                </base>
+                <second>
+    For an additional fee: an electronic visa for gray passport holders 20$ (NB! The visa must be issued in advance before traveling to Turkey in electronic form on the website of the Turkish Embassy at: www.evisa.gov.tr), insurance (if necessary), excursions .
+                </second>
+                <hotels>
+                    <hotel>
+                        Natur Garden (3*) 
+                    </hotel>
+                    <hotel>
+                        Sami Beach (3*)
+                    </hotel>
+                </hotels>
+            </programe>
+        </offer>
+    </Firma>
+</firms>
